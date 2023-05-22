@@ -11,7 +11,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/BonGabriel/azure-network-protocols)
   - [Azure Cloud Detection Project](https://github.com/BonGabriel/azure-cloud-detection.git) 
   - [Azure Cloud Detection (Part 2: Getting Data into Sentinel](https://github.com/BonGabriel/-Getting-data-into-sentinel.git)
-  - [Sentinel Lab Failed RDP Login]
+  - [Sentinel Lab Failed RDP Login](https://github.com/BonGabriel/Sentinel-Lab-Failed-Login.git)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Gabriel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
